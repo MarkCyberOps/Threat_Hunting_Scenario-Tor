@@ -75,9 +75,9 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: Josh Madakor
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
-- **Date**: August 31, 2024
+- **Author Name**: Mark Tuazon
+- **Author Contact**: (https://www.linkedin.com/in/mark-t-83a52b145)
+- **Date**: February 22, 2026 
 
 ## Validated By:
 - **Reviewer Name**: 
@@ -94,4 +94,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `February 22,2025`  | `Mark Tuazon`   
+| 1.0         | Initial draft                  | `February 22,2026`  | `Mark Tuazon`   
